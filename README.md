@@ -1,7 +1,7 @@
 # grahitha-project1
-| ID  | Title                  | Description                                                | Priority | Status      |
-| --- | ---------------------  | ------------------------------------------------           | -------- | ----------- |
-| 1   | Member Registration    | Enable new members to register and create library accounts       | High     | Not Started |
-| 2   | Member Profile         | Update allow members to update their personal information        | Medium   | Not Started |
-| 3   | Book Reservation       | Allow members to reserve books that are currently checked out    | High     | Not Started |                             
+| ID  | Title                     | Description                                                      | Priority | Status      |
+| --- | ---------------------     | ------------------------------------------------                 | -------- | ----------- |                             
+| 1   | User Profile Management   | Enable users to manage their profiles and view borrowing history | Medium   | Not Started |
+| 2   | Admin Dashboard           | Create an admin panel for overseeing library operations          | High     | In Progress |
+| 3   | Notification System       | Implement email/SMS notifications for due dates and reminders    | Medium   | Not Started |
 
